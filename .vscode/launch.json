@@ -9,7 +9,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open Interface.html",
-            "file": "f:\\VISUAL CODE\\ITE\\Interface.html"
+            "file": "f:\\VISUAL CODE\\PROJECT\\Interface.html"
         }
     ]
 }
