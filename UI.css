@@ -1,6 +1,10 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
+     background-image: url('bgg.png'); /* Use your saved image filename */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
     margin: 0;
     padding: 20px;
     display: flex;
